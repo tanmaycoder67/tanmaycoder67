@@ -73,30 +73,30 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 # 🐍 Contribution Snake
 
-<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tanmaycoder67/tanmaycoder67/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tanmaycoder67/tanmaycoder67/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/tanmaycoder67/tanmaycoder67/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
-<img src="https://raw.githubusercontent.com/tanmaycoder67/tanmaycoder67/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/tanmaycoder67?label=Followers&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tanmaycoder67&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=tanmaycoder67&icon=7&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
